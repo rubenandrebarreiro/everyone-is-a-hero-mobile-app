@@ -1,1 +1,1 @@
-# everyone-is-a-hero-app
+# Everyone is a Hero - Mobile App
